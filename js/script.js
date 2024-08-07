@@ -14,3 +14,8 @@ function toggleContent(dotsId, moreTextId, btnId) {
     moreText.style.display = "inline";
   }
 }
+
+// fancy Box
+Fancybox.bind('[data-fancybox="gallery"]', {
+  // Custom options for the first gallery
+});

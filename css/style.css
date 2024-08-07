@@ -20,6 +20,7 @@ html {
 :root {
   --colorPrimary: #095c32;
   --colorSecondary: #206642;
+  --colorTertiary: green;
   --colorBlack: #000000;
   --colorWhite: #ffffff;
   --colorBackgroundOverlay: #00000070;
